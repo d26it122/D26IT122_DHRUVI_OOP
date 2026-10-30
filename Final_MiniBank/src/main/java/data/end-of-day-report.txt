@@ -1,0 +1,4 @@
+MINIBANK END-OF-DAY REPORT
+File: transactions.log | Size: 276 bytes | Modified: 2026-10-30T09:41:18.912541Z
+Total deposits: Rs. 1000
+Total withdrawals: Rs. 1000
